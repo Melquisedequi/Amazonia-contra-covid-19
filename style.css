@@ -1,0 +1,28 @@
+main#main1 {
+    background-color: rgb(147,144,31,1);
+    text-align: center;
+    font-size: 20px;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Source Sans Pro', Pro', 'Proxima Nova', 'sans-serif;
+    line-height: 1.5;
+}
+main#main2 {
+    background-color: #f7f7f7;
+    color: rgb(0, 0, 0);
+    outline: none;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    min-height: 150px;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Source Sans Pro', Pro', 'Proxima Nova', 'sans-serif;
+    line-height: 1.5;
+}
+main#main3 {
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f7f7f7;
+    font-family: 'Source Sans Pro', 'Proxima Nova', sans-serif;
+    line-height: 1.5;
+}
